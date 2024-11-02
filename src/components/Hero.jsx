@@ -10,7 +10,7 @@ const Hero = ({title = 'Become a react dev', subtitle = 'Find the react job that
                 </div>
             </section>
         </>
-    ); b
+    );
 };
 
 export default Hero;
